@@ -1,0 +1,54 @@
+
+
+/* these are by deafult added by google chrome but still*/
+ul {
+    list-style: disc;
+    padding-left: 40px;
+  }
+ol {
+    list-style: decimal;
+    padding-left: 40px;
+  }
+dd {
+    margin-left: 40px;
+  }
+#nested{
+    list-style: circle;
+    padding-left: 40px;
+}
+img {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-left: 40px;
+  display: block;
+  max-width: 100%;
+ 
+}
+#grad {
+  background-image: linear-gradient(
+  rgb(255, 204, 204),
+  rgb(255, 217, 204),
+  rgb(255, 230, 204),
+ 	rgb(255, 242, 204),
+	rgb(255, 255, 204),
+	rgb(242, 255, 204),
+	rgb(230, 255, 204),
+  rgb(217, 255, 204),
+  rgb(204, 255, 204),
+ 	rgb(204, 255, 217),
+  rgb(204, 255, 230),	
+  rgb(204, 255, 242),	
+ 	rgb(204, 255, 255),	
+  rgb(204, 242, 255),	
+  rgb(204, 230, 255),	
+  rgb(204, 217, 255),
+ 	rgb(204, 204, 255),	
+  rgb(217, 204, 255),	
+ 	rgb(230, 204, 255),	
+  rgb(242, 204, 255),	
+  rgb(255, 204, 255),	
+ 	rgb(255, 204, 242),
+  rgb(255, 204, 230),	
+  rgb(255, 204, 217),	
+ 	rgb(255, 204, 204));
+}
